@@ -1,7 +1,3 @@
-# GUVITASK
-
-<-GUVI TASK->
-
-<-DAY1->
+# DAY-1
 
 
